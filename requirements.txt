@@ -1,0 +1,19 @@
+El archivo main.py o main.ipynb se programó en su versión Python 3.8.11
+
+Se añade un archivo .ipynb de jupyter notebook por si el lector desea abrir dicho
+archivo.
+
+El archivo main Crea una base de datos SQLite en memoria.
+
+Saludos, que tenga un excelente día.
+
+
+
+The main.py or main.ipynb file was programmed in its Python version 3.8.11
+
+A jupyter notebook .ipynb file is added in case the reader wants to open that
+file.
+
+The main file Creates an in-memory SQLite database.
+
+Greetings, have a great day.
